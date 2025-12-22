@@ -1,0 +1,14 @@
+Mike Johnson
+Email: mike@email.com
+Phone: 555-123-4567
+
+EXPERIENCE:
+- Data Scientist at Amazon (2021-2023)
+- Python, SQL, Machine Learning, Data Analysis
+- Built recommendation systems
+
+SKILLS:
+Python, SQL, TensorFlow, Pandas, Statistics
+
+EDUCATION:
+MS Data Science, Berkeley (2019-2021)
