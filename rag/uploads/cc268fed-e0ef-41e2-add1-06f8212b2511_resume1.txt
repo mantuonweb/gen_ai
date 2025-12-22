@@ -1,0 +1,14 @@
+John Doe
+Email: john@email.com
+Phone: 123-456-7890
+
+EXPERIENCE:
+- Software Engineer at Google (2020-2023)
+- Worked on Python, Machine Learning, and Cloud Services
+- Built scalable APIs serving 1M+ users
+
+SKILLS:
+Python, JavaScript, Machine Learning, AWS, Docker
+
+EDUCATION:
+BS Computer Science, MIT (2016-2020)

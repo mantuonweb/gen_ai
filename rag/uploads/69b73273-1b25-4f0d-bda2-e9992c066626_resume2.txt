@@ -1,0 +1,14 @@
+Jane Smith
+Email: jane@email.com
+Phone: 098-765-4321
+
+EXPERIENCE:
+- Frontend Developer at Facebook (2019-2023)
+- Specialized in React, TypeScript, and UI/UX
+- Led team of 5 developers
+
+SKILLS:
+React, TypeScript, CSS, HTML, Figma
+
+EDUCATION:
+BS Software Engineering, Stanford (2015-2019)
